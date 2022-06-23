@@ -1,1 +1,1 @@
-Create multiple directories with one command
+List all files and directories seperated by commas
