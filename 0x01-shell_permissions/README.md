@@ -1,1 +1,1 @@
-Script to change owner and group owner for all files and directories
+Script to change ownership of a symbolic link
