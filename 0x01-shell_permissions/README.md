@@ -1,1 +1,1 @@
-Script to change ownership of a symbolic link
+Script to change ownership if only it is used by a specific user
