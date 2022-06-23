@@ -1,1 +1,1 @@
-Change current user to new user
+Script to print effective username of current user
