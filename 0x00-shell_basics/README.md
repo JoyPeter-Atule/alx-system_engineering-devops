@@ -1,1 +1,1 @@
-Delete a sub-drectory from a directory
+Change the working directory to a previous one
