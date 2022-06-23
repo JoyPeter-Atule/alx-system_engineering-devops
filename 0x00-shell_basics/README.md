@@ -1,1 +1,1 @@
-Move file from /tmp to a direcotry in /tmp
+Delete a file from a sub-directory
