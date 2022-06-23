@@ -1,1 +1,1 @@
-Script that adds execution permission to user group and others
+Script that sets no permission for user and group but sets all permission for others
