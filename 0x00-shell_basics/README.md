@@ -1,1 +1,1 @@
-print all HTML files
+Move files with capital letters only
