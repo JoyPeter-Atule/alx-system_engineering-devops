@@ -1,1 +1,1 @@
-To remove special characters
+Create multiple directories with one command
