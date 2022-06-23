@@ -1,1 +1,1 @@
-List files, hidden files in current parent and boot directory
+list files including hidden files in all directories
