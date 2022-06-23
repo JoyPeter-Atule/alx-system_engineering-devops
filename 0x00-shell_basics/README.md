@@ -1,1 +1,1 @@
-print name of current working directory
+List content of working directory
