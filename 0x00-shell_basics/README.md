@@ -1,1 +1,1 @@
- My third readme
+print name of current working directory
