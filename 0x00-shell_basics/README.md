@@ -1,1 +1,1 @@
-Move files with capital letters only
+To remove special characters
