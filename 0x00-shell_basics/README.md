@@ -1,1 +1,1 @@
-list files including hidden files in all directories
+List all files in all directories including /boot
