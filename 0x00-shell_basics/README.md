@@ -1,1 +1,1 @@
-List all files and directories seperated by commas
+Create a magic file
