@@ -1,1 +1,1 @@
-Replacing characters in a line with other characters
+Script to remove both capital and small letters from a wrd
