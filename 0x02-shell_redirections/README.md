@@ -1,1 +1,1 @@
-Create a text in a file
+Writing a command in a file
