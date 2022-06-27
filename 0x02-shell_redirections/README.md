@@ -1,1 +1,1 @@
-Display lines containg the pattern and 3 lines after them
+Display all lines that do not contain a pattern
