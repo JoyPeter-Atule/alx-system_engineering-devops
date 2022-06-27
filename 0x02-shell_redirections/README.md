@@ -1,1 +1,1 @@
-Writing a command in a file
+Duplicate lines in a file
