@@ -1,1 +1,1 @@
-Duplicate lines in a file
+Delete files with .js ecluding directories
