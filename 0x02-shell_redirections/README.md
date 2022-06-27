@@ -1,1 +1,1 @@
-Print hello world to standard output
+Display smiley
