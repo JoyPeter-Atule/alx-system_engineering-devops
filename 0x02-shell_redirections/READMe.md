@@ -1,0 +1,1 @@
+Print Hello, World to the standard output
