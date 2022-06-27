@@ -1,1 +1,1 @@
-display lines with pattern root in /etc/passwd
+Script to display the numer of lines with a pattern
