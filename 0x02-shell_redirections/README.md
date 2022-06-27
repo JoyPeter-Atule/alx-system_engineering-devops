@@ -1,1 +1,1 @@
-Display smiley
+Display content of etc/passwd and etc/hosts
