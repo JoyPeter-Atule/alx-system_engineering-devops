@@ -1,1 +1,1 @@
-Delete files with .js ecluding directories
+To count the number of directories and sub-directories in the current working directory
