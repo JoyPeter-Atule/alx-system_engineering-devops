@@ -1,1 +1,1 @@
-Script to display the numer of lines with a pattern
+Display lines containg the pattern and 3 lines after them
