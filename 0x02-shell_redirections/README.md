@@ -1,1 +1,1 @@
-Script to reverse an input
+Script to dislay all users and home directories sorted by users
