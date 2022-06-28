@@ -1,1 +1,1 @@
-Script to find empty files and directories in  current and hidden directories
+Script to list all .gif files in al directories in current and hidden directories
