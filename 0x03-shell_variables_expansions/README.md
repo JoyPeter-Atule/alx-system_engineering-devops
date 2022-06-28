@@ -1,1 +1,1 @@
-Print hello user with script
+Adding a directory to path
