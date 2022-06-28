@@ -1,1 +1,1 @@
-Script to display the result of BREATH raised to the power of LOVE
+Convert base 2 to base 10
