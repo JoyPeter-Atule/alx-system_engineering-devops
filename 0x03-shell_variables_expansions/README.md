@@ -1,1 +1,1 @@
-A script that prints hello user where user is the current linux user
+Script to create an alias
