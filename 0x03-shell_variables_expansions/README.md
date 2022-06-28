@@ -1,1 +1,1 @@
-Adding a directory to path
+Script to count the number of directories in PATH
