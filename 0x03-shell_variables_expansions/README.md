@@ -1,1 +1,1 @@
-A script to create an alia
+A script to create an alias
