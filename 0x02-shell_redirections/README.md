@@ -1,1 +1,1 @@
-Script to dislay all users and home directories sorted by users
+Script to find empty files and directories in  current and hidden directories
