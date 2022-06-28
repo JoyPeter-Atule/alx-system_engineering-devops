@@ -1,1 +1,1 @@
-Script to print all local variables, global varibales and function
+Creating a variable using script
