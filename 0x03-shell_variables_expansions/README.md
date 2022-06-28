@@ -1,1 +1,1 @@
-Script to print a number in two decimal places
+Script to convert base 10 to hexadecimal
