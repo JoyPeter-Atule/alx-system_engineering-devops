@@ -1,1 +1,1 @@
-Script to convert base 10 to hexadecimal
+script that encodes and decodes text using the rot13 encryption
