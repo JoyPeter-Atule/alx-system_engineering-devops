@@ -1,1 +1,1 @@
-Creating a variable using script
+Create a global variable using script
