@@ -1,1 +1,1 @@
-Convert base 2 to base 10
+Script that prints all possible combinations of two letters excluding oo
